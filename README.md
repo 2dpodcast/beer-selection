@@ -1,7 +1,9 @@
 beer-selection
 ==============
 
-Beer Selection Analysis: see [this blog post][1]
+Beer Selection Analysis: see this blog post:
+
+www.drbunsen.org/beer-selection/
 
 To generate figures:
 
@@ -10,4 +12,3 @@ To generate figures:
 3. Rum `make`
 
 
-[1]: www.drbunsen.org/beer-selection/
